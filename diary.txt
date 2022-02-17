@@ -1,9 +1,1 @@
-I HATE MY BOSS
-I HATE MY BOSS
-I HATE MY BOSS
-I HATE MY BOSS
-<<<<<<< Updated upstream
-I HATE MY BOSS
-=======
-I HATE MY BOSS
->>>>>>> Stashed changes
+sup black
